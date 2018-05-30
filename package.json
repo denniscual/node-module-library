@@ -10,7 +10,7 @@
   "jsnext:main": "dist/index.es.js",
   "scripts": {
     "build": "rollup -c",
-    "start": "rollup -c -w",
+    "dev": "rollup -c -w",
     "test": "jest --watch"
   },
   "devDependencies": {
