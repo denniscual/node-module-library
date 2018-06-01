@@ -1,8 +1,6 @@
 {
   "presets": [
-    ["env": {
-        "modules": "commonjs"
-    }"],
+    ["env", {"modules": "commonjs"}],
     "jest",
     "stage-0"
   ]
